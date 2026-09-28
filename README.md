@@ -138,6 +138,8 @@ Aqui você encontrará projetos desenvolvidos para:
 * 💻 Desenvolvimento de aplicações
 * 🧠 Resolução de problemas práticos
 
+(Calma que estou atualizando o GitHub e em breve todos projetos que possa compartilhar estarão disponíveis 😁)
+
 ---
 
 ## 👨‍💻 Sobre o "Sparna"
